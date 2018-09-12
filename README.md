@@ -71,13 +71,8 @@ Type
 If it says 'Already up to date' then no changes have been made since you started setting up! If there were changes, it updated your files. In both cases, your files will match the files on the original owner's Github.
 
 ### Edit the File
-Now let's add our part to the story! We can also open up a file from Bash.
-
-Type
-
-    open collaborative-story.txt
-    
-It should open up the file in your computer's text editor. Add your own portion of the story after the last sentence.
+Now let's add our part to the story!   
+Open collaborative-story.txt in your computer's text editor. Add your own portion of the story after the last sentence.
 
 When you're done, save the file. Make sure you keep it saved as a .txt file. 
 
